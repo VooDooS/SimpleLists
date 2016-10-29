@@ -2,7 +2,7 @@
 This is a modified and more feature-rich version of phpmassmail made by iateadonut : https://sourceforge.net/p/phpmassmail/
 
 
-Original readme :
+# Original readme :
 
 This is just a simple script made with the ubiquitous php mailer.
 
