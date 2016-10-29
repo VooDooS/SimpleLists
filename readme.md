@@ -1,0 +1,25 @@
+# Simple Lists
+This is a modified and more feature-rich version of phpmassmail made by iateadonut : https://sourceforge.net/p/phpmassmail/
+
+
+Original readme :
+
+This is just a simple script made with the ubiquitous php mailer.
+
+The purpose is to mass mail many recipients with each recipient appearing to be the sole recipient of the email.
+ 
+To install,
+
+Open up the file send.php and put in the correct values for the first three variables (your smtp server, username, and password).
+
+Put these files in a web directory.  Make sure the directory /upload is chmod 777.
+
+open up your webpage and you're all set.  Each
+
+
+
+I'd also like to take the time to plug icdsoft.com - they are a hosting provider with excellent customer service and reasonable hosting plans.  If you sign up, let them know that I introduced you so I can get some kind of discount.
+
+Any questions, let me know.
+
+dan at worldtradetown dot com
